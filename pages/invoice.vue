@@ -90,7 +90,7 @@ export default {
         value: 'id',
       },
       { text: 'Nama Pengguna', value: 'user.name' },
-      { text: 'Kode Produk', value: 'code_transaction' },
+      { text: 'Kode Transaksi', value: 'code_transaction' },
       { text: 'Nama Produk', value: 'product.name' },
       { text: 'Harga', value: 'price' },
       { text: 'Metode Pembayaran', value: 'payment_method.name' },
